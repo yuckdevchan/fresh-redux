@@ -1,6 +1,7 @@
-import sys
-
 print("Welcome to Fresh Redux Lyric Generator")
+
+# Getting Information
+
 name = input("Insert name of person: ")
 pronoun = input("Insert pronoun of person: (eg. he, she, they) ")
 parent = input("Insert parent of person: ")
@@ -16,6 +17,8 @@ days = input("Where did they spend most of their days: ")
 title = input("Insert what they're going to become when they get there: ")
 drinkglass = input("What does your person drink out of? ")
 wear = input("What does your person wear? ")
+
+# Figure out pronouns
 
 if pronoun == "he":
   possesive = "his"
@@ -46,9 +49,10 @@ elif placenoun == "n":
   placenoun = ""
 else:
   print("Error: Invalid Answer")
-  sys.exit
 
 place = placenoun + " " + place
+
+# Lyrics with f strings to add custom variables
 
 lyrics = f"""--- LYRICS ---
 
@@ -91,5 +95,7 @@ And he yelled to the cabbie, "Yo driver, you're {people1}"
 {pronoun} looked at {place}
 {pronoun} was finally there
 To sit in {possesive} throne as the {title} of {place}"""
+
+# Present to the user the beautiful song
 
 print(lyrics)
