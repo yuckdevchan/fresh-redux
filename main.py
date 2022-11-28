@@ -21,7 +21,7 @@ else:
     print("Error: Invalid Answer")
     sys.exit
     
-place = placepronoun + " " + place
+place = placenoun + " " + place
 
 lyrics = f"""Now, this is a story all about how
 {name}'s life got flipped-turned upside down
