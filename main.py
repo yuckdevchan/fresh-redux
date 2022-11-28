@@ -56,7 +56,7 @@ There was a dude who looked like a cop standing there with my name out
 {pronoun} whistled for a cab and when it came near
 The license plate said, "{plate}" and it had dice in the mirror
 If anything {pronoun} could say that this cab was rare
-But {pronoun} thought "Nah, forget it, yo, holmes to Bel Air"
+But {pronoun} thought "Nah, forget it, yo, holmes to {place}"
 {name} pulled up to the house about seven or eight
 And he yelled to the cabbie, "Yo holmes, smell ya later"
 {pronoun} looked at {place}
