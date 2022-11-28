@@ -63,5 +63,4 @@ And he yelled to the cabbie, "Yo holmes, smell ya later"
 {pronoun} was finally there
 To sit in their cell as the {title} of {place}"""
 
-clipboard(lyrics)
 print(lyrics)
