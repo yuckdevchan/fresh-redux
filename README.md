@@ -1,6 +1,6 @@
 # Fresh Redux
 ## Generate your own Fresh Prince of Bel-Air Lyrics with Python!
-[image of freshness](fresh.PNG)
+![image of freshness](fresh.PNG)
 
 Dependencies
 - python
