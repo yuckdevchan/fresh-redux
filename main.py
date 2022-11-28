@@ -54,3 +54,4 @@ He was finally there
 To sit in his cell as the bozo of County Jail"
 
 clipboard(lyrics)
+print(lyrics)
