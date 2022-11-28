@@ -1,4 +1,5 @@
 import subprocess
+import sys
 
 def clipboard(txt):
     cmd='echo '+txt.strip()+'|pbcopy'
@@ -10,10 +11,18 @@ pronoun = input("Insert pronoun of person: ")
 parent = input("Insert parent of person: ")
 plate = input("Insert license plate of car: ")
 place = input("Where is your person going? ")
-placenoun = input("Is your place a proper noun?: ")
+placenoun = input("Is your place a proper noun? (y, n): ")
 title = input("Insert what they're going to become when they get there: ")
 
-lyrics = "Now, this is a story all about how
+if placenoun == "y":
+    placenoun = "the"
+elif placenoun == "n":
+    placenoun = ""
+else:
+    print("Error: Invalid Answer")
+    sys.exit
+
+lyrics = """Now, this is a story all about how
 Matty E's life got flipped-turned upside down
 And I'd like to take a minute
 Just sit right there
@@ -51,7 +60,7 @@ Matty pulled up to the house about seven or eight
 And he yelled to the cabbie, "Yo holmes, smell ya later"
 He looked at the prison
 He was finally there
-To sit in his cell as the bozo of County Jail"
+To sit in his cell as the bozo of County Jail"""
 
 clipboard(lyrics)
 print(lyrics)
