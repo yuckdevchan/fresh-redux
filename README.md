@@ -5,7 +5,7 @@
 Fresh Prince of Bel-Air Lyrics in just 87 Sloc!
 
 Dependencies
-- python 3.6 or higher
+- [python](https://www.python.org/) 3.6 or higher
 
 Features:
 - Pronoun Support
