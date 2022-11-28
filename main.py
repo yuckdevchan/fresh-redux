@@ -1,9 +1,4 @@
-import subprocess
 import sys
-
-def clipboard(txt):
-    cmd='echo '+txt.strip()+'|pbcopy'
-    return subprocess.check_call(cmd, shell=True)
 
 print("Welcome to Fresh Redux Lyric Generator")
 name = input("Insert name of person: ")
