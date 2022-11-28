@@ -39,7 +39,7 @@ Started making trouble in his neighborhood
 {name} begged and pleaded with {parentpronoun} day after day
 But he packed {name}'s suitcase and sent him on his way
 He gave him a kiss and then he gave him his ticket
-Matty put his Walkman on and said, "I might as well kick it"
+{name} put his Walkman on and said, "I might as well kick it"
 First class, yo this is bad
 Drinking orange juice out of a {drinkglass} can
 Is this what the people in {place} living like?
