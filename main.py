@@ -29,7 +29,7 @@ else:
 place = place + placenoun
 
 lyrics = f"""Now, this is a story all about how
-Matty E's life got flipped-turned upside down
+{name}'s life got flipped-turned upside down
 And I'd like to take a minute
 Just sit right there
 I'll tell you how {name} became the {title} of a town called {place}
