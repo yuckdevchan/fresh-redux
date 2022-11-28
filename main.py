@@ -41,7 +41,7 @@ But he packed {name}'s suitcase and sent him on his way
 He gave him a kiss and then he gave him his ticket
 {name} put his Walkman on and said, "I might as well kick it"
 First class, yo this is bad
-Drinking orange juice out of a {drinkglass} can
+Drinking orange juice out of a {drinkglass}
 Is this what the people in {place} living like?
 Hmm, this might be alright
 But wait, I hear they're prissy, bourgeois, all that
