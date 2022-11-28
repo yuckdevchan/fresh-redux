@@ -59,7 +59,7 @@ If anything {pronoun} could say that this cab was rare
 But {pronoun} thought "Nah, forget it, yo, holmes to Bel Air"
 {name} pulled up to the house about seven or eight
 And he yelled to the cabbie, "Yo holmes, smell ya later"
-{pronoun} looked at the {place}
+{pronoun} looked at {place}
 {pronoun} was finally there
 To sit in their throne as the {title} of {place}"""
 
