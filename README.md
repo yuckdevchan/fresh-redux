@@ -13,4 +13,4 @@ Features:
 - Easy to edit code
 - Easily understandable code
 
-Hosted on [Replit](https://replit.com/@yuckdevchan/freshredux#main.py) (Runnable in Browser)
+Hosted on [Replit](https://replit.com/@yuckdevchan/freshredux#main.py) (Runnable in a Browser)
