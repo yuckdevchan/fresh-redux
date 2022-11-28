@@ -7,6 +7,9 @@ parent = input("Insert parent of person: ")
 parentpronoun = input("Insert parent's pronoun: ")
 plate = input("Insert license plate of car: ")
 place = input("Where is your person going? ")
+print("What are people like there? Give 2 adjectives.")
+people1 = input("1. ")
+people2 = input("2. ")
 placenoun = input("Is your place a proper noun? (y, n): ")
 born = input("Where was your person born?: ")
 days = input("Where did they spend most of their days: ")
@@ -44,8 +47,8 @@ First class, yo this is bad
 Drinking orange juice out of a {drinkglass}
 Is this what the people in {place} living like?
 Hmm, this might be alright
-But wait, I hear they're prissy, bourgeois, all that
-Is this the type of place that they just send this cool cat?
+But wait, I hear they're {people1}, {people2}, all that
+Is this the type of place that they just send this {title}?
 I don't think so
 {pronoun}'ll see when he gets there
 {name} hopes that they're prepared for the {title} of {place}
